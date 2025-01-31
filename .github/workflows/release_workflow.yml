@@ -11,5 +11,6 @@ jobs:
     steps:
       - uses: rymndhng/release-on-push-action@master
         with:
+          bump_version_scheme: minor
           tag_prefix: "v"
           release_name: "bot-cargo-quality_<RELEASE_VERSION>"
