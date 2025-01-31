@@ -11,6 +11,8 @@ The cargo capacity of default vanilla bots is:
 - ![](https://wiki.factorio.com/images/thumb/Quality_epic.png/12px-Quality_epic.png) 3 (epic)
 - ![](https://wiki.factorio.com/images/thumb/Quality_legendary.png/12px-Quality_legendary.png) 4 (legendary)
 
+Mod-Portal: [Bot Cargo Quality](https://mods.factorio.com/mod/bot-cargo-quality)
+
 ## Working principle
 
 For each quality level in the game, a new bot entity (one for logistic, one for cargo) is created with all the same properties as the original bot, but with a different payload size (the internal name for cargo capacity/size).
