@@ -5,7 +5,7 @@
     "title": "Bot Cargo Quality",
     "author": "NeuralCoder3",
     "contact": "",
-    "description": "Improves bot cargo capacity with quality.\nThe amount is adjustable in the startup settings (default is quality-level halved).\n\n[quality=normal] 1 (normal)\n[quality=uncommon] 2 (uncommon)\n[quality=rare] 2 (rare)\n[quality=epic] 3 (epic)\n[quality=legendary] 4 (legendary)",
+    "description": "Improves bot cargo capacity with quality.\nThe amount is adjustable in the startup settings (default is quality-level halved).\n\nThe cargo capacity of default vanilla bots is:\n[quality=normal] 1 (normal)\n[quality=uncommon] 2 (uncommon)\n[quality=rare] 2 (rare)\n[quality=epic] 3 (epic)\n[quality=legendary] 4 (legendary)",
     "homepage": "https://github.com/NeuralCoder3",
     "dependencies": [
         "base >= 2.0.0",
