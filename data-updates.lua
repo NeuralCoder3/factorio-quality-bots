@@ -2,7 +2,7 @@ local common = require("common")
 
 for _, q in pairs(data.raw["quality"]) do
   local k = common.padleft(q.level, 2, "0").."-"..q.name
-  local v = 1 + 0.5 * q.level
+  local v = 1 + settings.startup["robot-payload-size-multiplier"].value * q.level
 
 
   local robots = {}
