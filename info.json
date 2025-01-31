@@ -1,0 +1,16 @@
+{
+    "name": "bot-cargo-quality",
+    "version": "1.0.0",
+    "factorio_version": "2.0",
+    "title": "Bot Cargo Quality",
+    "author": "NeuralCoder3",
+    "contact": "",
+    "description": "Improves bot cargo capacity with quality.",
+    "homepage": "https://github.com/NeuralCoder3",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age >= 2.0.0",
+        "? metal-and-stars >= 0.0.1",
+        "? Fission_Robots >= 0.0.1"
+    ]
+}
